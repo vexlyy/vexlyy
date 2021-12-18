@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @vexlyy
-- 📫 How to reach me : Discord (vexly#0001)
+v e x l y#0001
 
+py,c#,html
+beginner
